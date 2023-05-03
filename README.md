@@ -1,4 +1,5 @@
 # Getting Started
+![image](https://user-images.githubusercontent.com/66244185/235844761-4c5a2a44-5a86-48fb-870c-5ec6ab1f831f.png)
 
 ### Reference Documentation
 For further reference, please consider the following sections:
